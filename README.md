@@ -20,12 +20,6 @@ endlessly useful resources.
 * The [Commands Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf) 
   is a perfect pocket guide to CLI commands for `git`.
 
-### Comprehending Branching
-
-* [Think Like (a) Git](http://think-like-a-git.net/) dives into 
-  the structure of repositories and how branches tie together a repository's 
-  state and history. It is also hilarious.
-
 ### Creating Quality Commits
 
 Commit etiquette is another convention which illuminates the purpose of a project 
@@ -44,6 +38,14 @@ and makes collaboration easier.
 * Read this [goofy & opinionated piece](https://tomayko.com/blog/2008/the-thing-about-git) 
   about how `git` is friendly to the workflow of _individual developers_.
 
-### Official Documentation
+### Comprehending the Finer Points
 
-Visit [git-scm.com](https://git-scm.com/doc) for the official `git` documentation.
+* Visit [git-scm.com](https://git-scm.com/doc) for the official `git` 
+  documentation for commands, workflows, and everything else.
+* [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/)
+  has an excellent technical overview of how a repository history is codified, 
+  stored, traversed, and retrieved. It also has one of the best explanations 
+  of rebasing ever, in our opinion.
+* [Think Like (a) Git](http://think-like-a-git.net/) dives into 
+  the structure of repositories and how branches tie together a repository's 
+  state and history. It is also hilarious.
